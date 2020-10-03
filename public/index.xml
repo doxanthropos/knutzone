@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Zone</title>
+    <link>/</link>
+    <description>The Zone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 21:58:26 +0200</lastBuildDate>
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Site With Hugo</title>
+      <link>/posts/new-site-with-hugo/</link>
+      <pubDate>Sat, 03 Oct 2020 21:58:26 +0200</pubDate>
+      
+      <guid>/posts/new-site-with-hugo/</guid>
+      <description>&lt;p&gt;As I tend to do, when I have not written into one of my own little places on the internet, I had the drive to start new from scratch and luckily I had this domain lying around, waiting for me to do something with it (and being paid regularly so I keep it).&lt;/p&gt;
+&lt;h2 id=&#34;hugo-and-anubis&#34;&gt;Hugo and Anubis&lt;/h2&gt;
+&lt;p&gt;The descision for the static site generator &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; was based mainly on flexibility and availibility for all platforms. While I was still considering writing all the html and css myself, I found the beautiful theme &lt;a href=&#34;https://github.com/mitrichius/hugo-theme-anubis&#34;&gt;Anubis&lt;/a&gt;, which looked just like I would want this site to look.&lt;/p&gt;
+&lt;p&gt;One main point I like about Hugo in comparison to Jekyll is that it doesn&amp;rsquo;t need me to bring the whole language stack with me. It is possible to just download the executable and use it, while with Jekyll (or Octopress, based on it), one needs not only Ruby, but also gems, bundler and other stuff that has to be managed and can get you into situations with conflicting version and depricated libraries. In this regard, Hugo seems much cleaner and simpler.&lt;/p&gt;
+&lt;p&gt;Anubis, I chose, because it provides a nice dark theme with a simple responsive layout and because it is a really lightwheight theme with no JavaScript. What I do not want is have a website that suffers from &lt;a href=&#34;https://idlewords.com/talks/website_obesity.htm&#34;&gt;website obesity&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;rss&#34;&gt;RSS&lt;/h2&gt;
+&lt;p&gt;One important change from the Hugo and Anubis default was the &lt;a href=&#34;/posts/rss-matters/&#34;&gt;RSS&lt;/a&gt;. I want it to contain all the posts, but not the pages. Of course I was not the first to have such an interest and I found a &lt;a href=&#34;https://benjamincongdon.me/blog/2020/01/14/Tips-for-Customizing-Hugo-RSS-Feeds/&#34;&gt;nice article&lt;/a&gt; about how to customize the RSS with some general explanations and nearly exact the template line that I needed.&lt;/p&gt;
+&lt;p&gt;But I also wanted the RSS to be easily available to the interested visitor, so I added it to the navigation area in the header.html layout.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
