@@ -9,6 +9,16 @@ enableRobotsTXT: true
 
 menu:
   main:
+#  - identifier: about
+#    name: About
+#    title: About
+#    url: /about/
+#    weight: 2
+#  - identifier: links
+#    name: Links
+#    title: Links
+#    url: /links/
+#    weight: 1
   - identifier: archive
     name: Archive
     title: Archive
@@ -17,7 +27,7 @@ menu:
 
 params:
   author: "Knut"
-  description: "Where does this show up?"
+  description: "A Homepage|Website|Blog?"
   images:
     - images/og-featured.png # relative path to "static" directory
   customCSS:
