@@ -8,11 +8,11 @@ As I tend to do, when I have not written into one of my own little places on the
 
 ## Hugo and Anubis
 
-The descision for the static site generator [Hugo][hugo] was based mainly on flexibility and availibility for all platforms. While I was still considering writing all the html and css myself, I found the beautiful theme [Anubis][anubis], which looked just like I would want this site to look.
+The decision for the static site generator [Hugo][hugo] was based mainly on flexibility and availability for all platforms. While I was still considering writing all the HTML and CSS myself, I found the beautiful theme [Anubis][anubis], which looked just like I would want this site to look.
 
-One main point I like about Hugo in comparison to Jekyll is that it doesn't need me to bring the whole language stack with me. It is possible to just download the executable and use it, while with Jekyll (or Octopress, based on it), one needs not only Ruby, but also gems, bundler and other stuff that has to be managed and can get you into situations with conflicting version and depricated libraries. In this regard, Hugo seems much cleaner and simpler.
+One main point I like about Hugo in comparison to Jekyll is that it doesn't need me to bring the whole language stack with me. It is possible to just download the executable and use it, while with Jekyll (or Octopress, based on it), one needs not only Ruby, but also gems, bundler and other stuff that has to be managed and can get you into situations with conflicting version and deprecated libraries. In this regard, Hugo seems much cleaner and simpler.
 
-Anubis, I chose, because it provides a nice dark theme with a simple responsive layout and because it is a really lightwheight theme with no JavaScript. What I do not want is have a website that suffers from [website obesity][bloat].
+Anubis, I chose, because it provides a nice dark theme with a simple responsive layout and because it is a really lightweight theme with no JavaScript. What I do not want is have a website that suffers from [website obesity][bloat].
 
 ## RSS
 
