@@ -1,0 +1,14 @@
+<h1 class="site-title">
+    <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }}</a>
+</h1>
+{{ if .Site.Menus.main }}
+    <nav>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <a class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
+        {{ end }}
+        <a href="/index.xml"><img width="20em" height="20em" src="/images/Feed-icon.svg" alt="RSS Feed Icon" title="Use RSS and your favorite feed reader, to keep up to date." /></a>
+    </nav>
+{{ else }}
+    <nav></nav>
+{{ end }}
