@@ -11,8 +11,8 @@
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
 
-<link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | absURL }}">
-<link rel="apple-touch-icon-precomposed" href="{{ "/favicon.png" | absURL }}">
+<link rel="icon" type="image/x-icon" href="{{ "/me.png" | absURL }}">
+<link rel="apple-touch-icon-precomposed" href="{{ "/me.png" | absURL }}">
 {{ partial "cssColors.html" }}
 <link rel="stylesheet" href="{{ "/css/style.css" | absURL }}?rnd={{ now.Unix }}" />
 <!-- 
