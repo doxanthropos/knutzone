@@ -3,6 +3,8 @@ title: "Links"
 layout: staticpage
 ---
 
+- <a href="/reading/">Reading List</a>
+
 ## Old Sites
 
 - [Doxanthropos - Meinen ist menschlich](https://web.archive.org/web/20110421033029/http://doxanthropos.bplaced.net:80/ "A mostly (leftist) political blog in german. First use of my long lasting username in many places, which is intended to mean something like opinionated human")
