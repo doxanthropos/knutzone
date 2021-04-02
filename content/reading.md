@@ -12,6 +12,7 @@ layout: staticpage
 - Philippe Bihouix (2020). [The Age of Low Tech - Towards a Technologically Sustainable Civilization](https://bristoluniversitypress.co.uk/the-age-of-low-tech).
 - Daniel Z. Lieberman, Michael E. Long (2019). [The MOLECULE of MORE](https://moleculeofmore.com/).
 - Christian Felber (2009). [Kooperation statt Konkurrenz](https://christian-felber.at/buecher/kooperation-statt-konkurrenz/).
+- Andrea Baier / Tom Hansing / Christa Müller / Karin Werner (Hg.)(2016). [Die Welt reparieren. Open Source und Selbermachen als postkapitalistische Praxis](https://www.transcript-verlag.de/978-3-8376-3377-1/die-welt-reparieren/?c=311000220).
 
 These are not all the unread books that I have. They are the ones, I mean to read in the near future.
 
