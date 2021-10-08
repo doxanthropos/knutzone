@@ -1,40 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/posts/new-site-with-hugo/</loc>
     <lastmod>2020-10-03T21:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2020-10-03T21:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2020-10-03T21:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/links/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/reading/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
