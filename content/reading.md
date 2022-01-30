@@ -14,6 +14,10 @@ layout: staticpage
 
 These are not all the unread books that I have. They are the ones, I mean to read in the near future.
 
+## 2022
+
+- Daniel Z. Lieberman, Michael E. Long (2019). [The MOLECULE of MORE](https://moleculeofmore.com/).
+
 ## 2021
 
 - Christian Felber (2018). [Gemeinwohl-Ökonomie](https://christian-felber.at/buecher/die-gemeinwohl-oekonomie/).
@@ -22,4 +26,4 @@ These are not all the unread books that I have. They are the ones, I mean to rea
 - Philippe Bihouix (2020). [The Age of Low Tech - Towards a Technologically Sustainable Civilization](https://bristoluniversitypress.co.uk/the-age-of-low-tech).
 - Paulo Coelho (2018). [Hippie](https://paulocoelho.com/9786073172158/hippie/).
 - Rekka Bellum & Devine Lu Linvega (2021). [Busy Doing Nothing](https://100r.co/site/busy_doing_nothing.html).
-- Daniel Z. Lieberman, Michael E. Long (2019). [The MOLECULE of MORE](https://moleculeofmore.com/).
+
