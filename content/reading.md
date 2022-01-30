@@ -9,7 +9,6 @@ layout: staticpage
 - Brian W. Kernighan, Dennis M. Ritchie (1988). [The C Programming Language. 2nd ed.](https://en.wikipedia.org/wiki/The_C_Programming_Language).
 - Derek Morris (2017). [Retro Game Dev: C64 Edition](https://www.retrogamedev.com/c64edition).
 - James C. Scott (2017). [Against the Grain: A Deep History of the Earliest States](https://en.wikipedia.org/wiki/Against_the_Grain:_A_Deep_History_of_the_Earliest_States).
-- Daniel Z. Lieberman, Michael E. Long (2019). [The MOLECULE of MORE](https://moleculeofmore.com/).
 - Andrea Baier / Tom Hansing / Christa Müller / Karin Werner (Hg.)(2016). [Die Welt reparieren. Open Source und Selbermachen als postkapitalistische Praxis](https://www.transcript-verlag.de/978-3-8376-3377-1/die-welt-reparieren/?c=311000220).
 - Shoshana Zuboff (2019). [The Age of Surveillance Capitalism](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism).
 
@@ -23,3 +22,4 @@ These are not all the unread books that I have. They are the ones, I mean to rea
 - Philippe Bihouix (2020). [The Age of Low Tech - Towards a Technologically Sustainable Civilization](https://bristoluniversitypress.co.uk/the-age-of-low-tech).
 - Paulo Coelho (2018). [Hippie](https://paulocoelho.com/9786073172158/hippie/).
 - Rekka Bellum & Devine Lu Linvega (2021). [Busy Doing Nothing](https://100r.co/site/busy_doing_nothing.html).
+- Daniel Z. Lieberman, Michael E. Long (2019). [The MOLECULE of MORE](https://moleculeofmore.com/).
