@@ -16,6 +16,7 @@ These are not all the unread books that I have. They are the ones, I mean to rea
 
 ## 2022
 
+- Andreas Weber (2020). [Warum Kompromisse schließen?](https://shop.duden.de/products/warum-kompromisse-schliessen).
 - Daniel Z. Lieberman, Michael E. Long (2019). [The MOLECULE of MORE](https://moleculeofmore.com/).
 
 ## 2021
