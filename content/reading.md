@@ -16,6 +16,7 @@ These are not all the unread books that I have. They are the ones, I mean to rea
 
 ## 2022
 
+- Robert Stackowiak (2019). [Remaining Relevant in Your Tech Career - When Change Is the Only Constant](https://www.oreilly.com/library/view/remaining-relevant-in/9781484237038/).
 - Kathy Sierra (2015). [Badass - Making Users Awesome](https://joelhooks.com/badass-making-users-awesome-by-kathy-sierra).
 - Aldous Huxley (1958). [Brave New World Revisited](https://www.huxley.net/bnw-revisited/).
 - Andreas Weber (2020). [Warum Kompromisse schließen?](https://shop.duden.de/products/warum-kompromisse-schliessen).
