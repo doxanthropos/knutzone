@@ -27,7 +27,7 @@ menu:
 
 params:
   author: "Knut"
-  mastodon: "https://mastodon.social/@doxanthropos"
+  mastodon: "https://mastodon.sdf.org/@knut"
   description: "A Homepage|Website|Blog?"
   images:
     - images/og-featured.png # relative path to "static" directory
