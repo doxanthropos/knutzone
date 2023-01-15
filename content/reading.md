@@ -14,6 +14,10 @@ layout: staticpage
 
 These are not all the unread books that I have. They are the ones, I mean to read in the near future.
 
+## 2023
+
+- Marc-Uwe Kling (2009). [Die Känguru-Chroniken](https://en.wikipedia.org/wiki/The_Kangaroo_Chronicles#Die_K%C3%A4nguru_Chroniken_(The_Kangaroo_Chronicles)).
+
 ## 2022
 
 - Thomas Hübl (2020). [Healing Collective Trauma - a process for integrating our intergenerational and cultural wounds](https://www.collectivetraumabook.com/).
