@@ -16,6 +16,8 @@ These are not all the unread books that I have. They are the ones, I mean to rea
 
 ## 2023
 
+- Juliet Starrett & Kelly Starrett (2023), [Built to Move - The 10 Essential Habits to Help You Move Freely and Live Fully](https://thereadystate.com/built-to-move/).
+- Alessandra Reß (2015). [Spielende Götter](https://fragmentansichten.com/eigenansichten-veroffentlichungen/romane/spielende-goetter/).
 - Marc-Use Kling (2011). [Das Kanguru Manifest](https://en.wikipedia.org/wiki/The_Kangaroo_Chronicles#Das_K%C3%A4nguru_Manifest_(The_Kangaroo_Manifesto)).
 - Marc-Uwe Kling (2009). [Die Känguru-Chroniken](https://en.wikipedia.org/wiki/The_Kangaroo_Chronicles#Die_K%C3%A4nguru_Chroniken_(The_Kangaroo_Chronicles)).
 
