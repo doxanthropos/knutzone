@@ -16,6 +16,8 @@ These are not all the unread books that I have. They are the ones, I mean to rea
 
 ## 2023
 
+- Yanis Varoufakis (2023), [Technofeudalism](https://www.penguin.co.uk/books/451795/technofeudalism-by-varoufakis-yanis/9781847927279) - What Killed Capitalism.
+- Robert Jordan (1990), [The Eye of the World](https://en.wikipedia.org/wiki/The_Eye_of_the_World).
 - Juliet Starrett & Kelly Starrett (2023), [Built to Move - The 10 Essential Habits to Help You Move Freely and Live Fully](https://thereadystate.com/built-to-move/).
 - Alessandra Reß (2015). [Spielende Götter](https://fragmentansichten.com/eigenansichten-veroffentlichungen/romane/spielende-goetter/).
 - Marc-Use Kling (2011). [Das Kanguru Manifest](https://en.wikipedia.org/wiki/The_Kangaroo_Chronicles#Das_K%C3%A4nguru_Manifest_(The_Kangaroo_Manifesto)).
