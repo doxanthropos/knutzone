@@ -14,6 +14,10 @@ layout: staticpage
 
 These are not all the unread books that I have. They are the ones, I mean to read in the near future.
 
+## 2024
+
+- Robert Jordan (1990). [The Great Hunt](https://en.wikipedia.org/wiki/The_Great_Hunt).
+
 ## 2023
 
 - Yanis Varoufakis (2023), [Technofeudalism](https://www.penguin.co.uk/books/451795/technofeudalism-by-varoufakis-yanis/9781847927279) - What Killed Capitalism.
