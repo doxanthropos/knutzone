@@ -16,7 +16,9 @@ These are not all the unread books that I have. They are the ones, I mean to rea
 
 ## 2024
 
-- Robert Jordan (1990). [The Great Hunt](https://en.wikipedia.org/wiki/The_Great_Hunt).
+- Atul Gawande (2009), [The Checklist Manifesto. How to Get Things Right](https://atulgawande.com/book/the-checklist-manifesto/).
+- Robert Jordan (1991), [The Dragon Reborn](https://en.wikipedia.org/wiki/The_Dragon_Reborn).
+- Robert Jordan (1990), [The Great Hunt](https://en.wikipedia.org/wiki/The_Great_Hunt).
 
 ## 2023
 
